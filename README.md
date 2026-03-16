@@ -17,7 +17,7 @@ Graph-based airport network representation.
 
 Uses Dijkstra’s Algorithm for shortest path calculation.
 
-Displays route distance between selected airports.
+Displays route distance between selected airports
 
 Technologies Used
 
